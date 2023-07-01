@@ -10,5 +10,5 @@ jobs:
        url: "https://jenkins.sdpmlab.org"
        user: "Sampling8291"
        token: ${{secrets.TOKEN}}
-       job: "ci4_workshop"
+       job: "tcse2023-5idereal"
     
